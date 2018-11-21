@@ -1,0 +1,9 @@
+0-121 Accepting
+140-223 Hand waving
+230-258 Idle
+270-300 Refering
+310-460 Rejecting
+480-590 Thinking(while talking)
+
+664-774 Thinking(Silent)
+800-828 Idle(Silent)
